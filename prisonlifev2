@@ -1,1 +1,1778 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local e={"\090\078\103\109\090\076\061\061";"\099\089\073\107\090\067\103\057\074\078\085\061","\051\122\098\055\074\089\052\083","\054\105\084\087\077\109\121\057";"\099\087\086\071\051\117\121\050\085\080\103\080\051\083\051\088\098\117\071\061";"\100\088\068\065\106\075\111\061","\085\056\066\112\106\114\057\073";"\111\085\119\050\079\085\119\121\111\056\083\088\065\071\098\080\079\051\061\061","\117\048\117\080\090\067\104\055\054\088\061\061","\113\121\053\083\075\097\054\061","\111\118\086\055\065\089\073\087","\067\103\102\047\043\118\114\098","\068\117\065\051\119\048\090\085\114\089\111\067\052\106\120\061";"\117\085\086\109\101\066\106\061","\098\078\103\113\098\051\061\061","\111\085\081\073\074\085\103\118\111\067\120\088\074\049\061\061","\106\121\076\083\102\118\115\110\109\097\122\061";"\112\072\074\122\119\083\080\079";"\117\078\103\109\090\047\098\082\111\071\114\120\065\089\119\071";"\090\089\073\088\074\089\114\077";"\098\051\085\090\077\111\087\072";"\051\072\069\081";"\099\087\065\052\071\088\061\061";"\052\107\047\106\050\065\098\109\057\088\084\061";"\107\081\068\079\119\076\061\061";"\112\052\104\087\074\088\061\061";"\101\056\106\061","\098\081\043\090","\082\056\097\103\053\065\054\106";"\112\052\104\109\101\048\086\083\079\076\061\061";"\116\049\061\061";"","\056\109\072\119";"\073\108\072\115\109\057\047\049\103\071\073\119\087\049\061\061","\107\087\112\089\104\114\083\072\112\107\079\122","\114\078\120\088","\111\051\051\098\116\097\099\089\053\072\051\104","\074\078\104\057\074\078\103\122";"\112\052\104\084\098\089\115\061","\111\067\103\109\111\087\054\061";"\079\087\079\098\082\050\076\061","\054\052\102\066\054\047\114\048\070\047\110\071\065\080\103\121";"\052\103\114\081\090\100\103\115","\107\080\119\099\052\117\052\047\075\115\070\043\056\074\082\113\099\088\061\061";"\112\052\104\113\098\112\086\102\090\067\103\068\101\067\085\061","\083\067\051\120\110\068\049\043";"\113\106\069\115\082\068\056\119","\084\051\082\050\097\086\103\104\050\070\099\052\047\088\102\071","\119\103\100\099\119\099\075\076","\099\082\043\114\068\088\061\061";"\098\048\119\082\101\118\106\061";"\111\048\110\066\054\078\083\106\090\078\098\097\070\066\102\048","\089\077\072\080\102\101\117\052";"\051\090\108\068","\098\118\114\052\074\049\061\061";"\072\055\112\065\114\104\121\047\101\049\061\061","\111\048\117\113\101\118\098\083","\098\112\110\055\101\118\106\061","\057\072\076\086\116\120\089\098\111\051\087\104\112\073\051\057\090\088\061\061";"\068\111\066\077\076\106\114\087\050\065\119\108";"\114\089\052\120\099\052\114\098\066\118\114\068\065\107\051\078";"\065\082\049\072\108\085\111\061","\069\082\118\101\112\077\067\088","\067\122\088\051\078\067\104\122\050\105\088\061","\098\078\052\102\090\067\114\120","\065\052\090\114\054\071\110\065\065\078\081\118\086\100\076\119\090\078\106\061","\086\108\067\050";"\102\053\080\065\108\118\075\104";"\086\089\073\052\101\051\061\061","\079\090\072\117\052\103\111\108\117\047\074\119\101\102\050\116\115\043\101\121\053\121\077\082\078\086\050\118\107\088\061\061";"\070\068\049\083\098\050\120\109\070\049\061\061";"\054\089\055\103\103\113\112\103\118\102\117\052\113\057\121\047\113\111\111\074\111\100\078\047\065\121\117\118\070\065\051\061","\089\072\111\110\083\049\061\061";"\085\121\082\071\110\049\061\061","\086\118\114\070\079\089\117\122\051\083\117\080\090\056\083\089";"\067\101\098\077\105\076\061\061";"\082\047\051\114\043\075\072\098";"\103\097\081\110\102\082\052\097","\065\052\102\087\109\119\051\068","\048\083\122\069\057\051\061\061";"\114\104\088\077\085\052\077\117";"\051\043\108\053\098\113\079\049";"\099\119\120\111\073\119\100\047";"\122\054\097\108\056\047\071\075","\117\067\103\113\111\067\117\055\106\047\086\083\090\067\117\080\090\067\117\071\106\051\061\061","\116\101\114\101\104\048\053\071\108\107\122\117";"\090\067\104\057\090\089\052\068\098\112\106\061";"\086\122\098\120\111\112\120\118\085\112\109\100\098\048\052\068","\078\118\100\104\056\049\061\061","\083\118\119\112\103\070\119\107\070\088\061\061","\086\083\047\109\056\048\118\071\100\110\109\065\109\088\061\061","\101\067\117\057";"\065\089\086\106\102\102\120\061";"\065\099\065\067\050\065\112\109\100\113\065\080\111\055\114\084\077\077\071\061","\101\056\047\061";"\112\113\081\106\068\120\113\098\080\118\117\085\043\078\071\086\089\076\061\061";"\085\080\083\051\117\087\110\115\090\078\110\073\111\117\098\055";"\121\118\050\087\108\073\069\071\109\074\120\061","\090\052\102\054\079\067\103\097\114\107\110\047\074\048\109\118\070\085\081\061";"\103\047\113\083\122\119\111\061";"\086\084\067\050\112\055\069\057","\111\048\103\057\098\067\104\113";"\101\089\103\122\065\076\061\061","\051\078\104\057\101\048\117\080\090\076\061\061","\085\116\120\082";"\086\078\117\122\085\078\117\055\090\048\083\080\098\051\061\061","\115\112\087\117";"\056\049\061\061","\085\067\119\102\079\051\061\061","\074\087\083\122\098\051\061\061";"\065\103\076\061","\090\067\103\068\101\067\085\061";"\084\066\099\100\113\066\068\078";"\090\067\104\107\090\100\110\109\101\048\111\061","\122\076\065\106\086\116\054\117","\101\118\071\107\070\103\109\106\099\107\121\073\051\089\109\117";"\074\078\102\102\111\049\061\061","\087\111\050\056\108\109\073\089";"\070\047\073\078\051\118\109\080\051\071\073\067\117\083\102\120","\111\067\114\102\101\067\088\061","\112\119\087\082";"\070\049\061\061","\098\052\098\055\101\117\114\108\085\066\110\043\066\103\110\043\065\122\117\112";"\111\078\117\122\101\089\117\122\074\112\086\102\074\048\119\083","\079\085\114\120\079\083\049\088";"\104\108\079\075\102\074\083\076","\052\055\068\100"}for L,J in ipairs({{-562711-(-562712);252732+-252605},{766990-766989,-90806-(-90838)};{551349-551316,798861+-798734}})do while J[321014-321013]<J[-762167+762169]do e[J[-613641+613642]],e[J[587786-587784]],J[940159+-940158],J[-6600+6602]=e[J[-78181-(-78183)]],e[J[-178899+178900]],J[-218742-(-218743)]+(-855460+855461),J[-87958+87960]-(-290423-(-290424))end end local function L(L)return e[L-(529050-518789)]end do local L=table.insert local J=math.floor local S=string.len local B=type local K=e local W=string.char local X=string.sub local p={z=129866+-129814;q=-510846-(-510891),v=-427742-(-427797);w=192171-192122;["\051"]=-634478+634494,m=929127+-929086,y=696098+-696097;u=403200+-403179;T=537020+-536976,E=931297-931239;n=517187-517178;["\043"]=821412+-821370,X=838657+-838609;M=822034-821991,J=-631269-(-631293),r=-423742+423755;B=-223864+223883,["\053"]=602803-602793;b=-211216-(-211241),L=-738514-(-738514);l=955556+-955545,p=-168434+168457,["\048"]=652835-652797,a=367570-367555,Q=-404604+404664;["\052"]=341169-341116;i=56835+-56776,N=-769066+769120;h=-233443-(-233504),c=950654+-950636,Y=784793+-784771,S=-370642+370679;x=-32907-(-32947);W=-499679+499718,["\054"]=312063+-312051,G=-200157-(-200193);e=51129+-51102,P=592679+-592644;k=589720-589669;["\055"]=67690+-67640,g=659583+-659578;C=586668-586662;["\047"]=-137352+137356,V=-821642+821659;["\049"]=859662+-859630;O=981436+-981406,s=253199-253143,R=-611122-(-611169),["\050"]=735454-735452,D=85161-85127,d=-121619-(-121626),["\057"]=-517433+517479,I=-689375-(-689432);H=-700920+700982,o=903448-903420,j=406251-406243,U=257822+-257802,Z=441345-441316;F=790502+-790488;["\056"]=-248553+248556,K=131913-131850,t=699409-699378;f=-919308-(-919341),A=473442-473416}local O=table.concat for e=-49777-(-49778),#K,-799280-(-799281)do local n=K[e]if B(n)=="\115\116\114\105\110\103"then local B=S(n)local o={}local v=-327443-(-327444)local d=129959-129959 local N=-661863-(-661863)while v<=B do local e=X(n,v,v)local S=p[e]if S then d=d+S*(-194594-(-194658))^((953254+-953251)-N)N=N+(-1022724+1022725)if N==-51075+51079 then N=624479-624479 local e=J(d/(-967740-(-1033276)))local S=J((d%(7408+58128))/(-384898+385154))local B=d%(-953483-(-953739))L(o,W(e,S,B))d=-882470-(-882470)end elseif e=="\061"then L(o,W(J(d/(1005283-939747))))if v>=B or X(n,v+(574384-574383),v+(-142443-(-142444)))~="\061"then L(o,W(J((d%(-474476+540012))/(-554621+554877))))end break end v=v+(-541440+541441)end K[e]=O(o)end end end return(function(e,S,B,K,W,X,p,E,N,F,T,n,v,h,l,x,o,O,r,J,d,Y)n,E,v,h,o,Y,F,l,J,N,O,x,r,d,T={},function(e,L)local S=d(L)local B=function()return J(e,{},L,S)end return B end,647754-647754,function(e,L)local S=d(L)local B=function(B,K,W,X,p)return J(e,{B;K,W;X,p},L,S)end return B end,function()v=v+(-389760+389761)n[v]=297313-297312 return v end,function(e,L)local S=d(L)local B=function(B,K,W,X)return J(e,{B,K,W,X},L,S)end return B end,function(e,L)local S=d(L)local B=function(B)return J(e,{B},L,S)end return B end,function(e)n[e]=n[e]-(852297-852296)if n[e]==909764-909764 then n[e],O[e]=nil,nil end end,function(J,B,K,W)local n,s,z,i,c,p,I,ej,G,m,f,Q,H,Lj,R,b,a,w,A,k,N,j,q,t,u,Z,y,C,P,Jj,V,v,g,T,D,d,U,M while J do if J<247720+7443010 then if J<4159141-(-958429)then if J<2872862-454948 then if J<977991-196182 then if J<293479-(-302)then if J<843655-567928 then if J<-163300+276092 then J=e[L(475579-465297)]p={}else J=w J=2327192-(-67627)p=R end else d=L(-226072+236350)v=e[d]d=L(886210+-875860)n=v[d]d=O[K[885138-885137]]v={n(d)}J=e[L(152785+-142440)]p={S(v)}end else if J<-329508+877173 then if J<-953298+1297550 then J=575002+-340755 D=-727900-(-727902)q=s[D]D=O[V]j=q==D R=j else J=7242063-675667 end else v=O[K[-448079-(-448082)]]d=950236+-950204 n=v%d N=O[K[-537055-(-537059)]]G=O[K[-810796-(-810798)]]b=O[K[153828+-153825]]H=-1045508-(-1045510)J=469331+-185987 U=608930-608917 a=b-n b=957177+-957145 y=a/b I=U-y Q=H^I A=G/Q T=N(A)N=-984314+4295951610 d=T%N T=47371+-47369 Q=-641144+641145 N=T^n v=d/N N=O[K[927192+-927188]]G=v%Q Q=4295134463-167167 A=G*Q T=N(A)n=nil N=O[K[255382-255378]]G=758392-692856 A=N(v)d=T+A T=112205-46669 N=d%T A=d-N T=A/G G=-751628+751884 A=N%G H=-584179+584435 Q=N-A d=nil N=nil v=nil G=Q/H U=73135-72879 H=54178+-53922 Q=T%H I=T-Q H=I/U I={A;G;Q,H}O[K[-272965-(-272966)]]=I T=nil G=nil Q=nil A=nil H=nil end end else if J<1113659-(-652143)then if J<1034946-(-601356)then if J<785525+687869 then a=.9 y=H>=a U=y J=6630837-(-720698)else a=L(-240697-(-250975))y=e[a]a=L(-951931-(-962244))U=y[a]H=U J=16435528-997716 end else A=802299-801299 T=n p=-274173-(-274174)G=A J=15241520-299844 A=-806234-(-806235)Q=A A=214478+-214478 H=Q<A A=p-Q end else if J<-47862+2399537 then if J<-384480+2457877 then n=O[K[854300-854299]]p=#n n=320960+-320960 J=p==n J=J and 10444495-197665 or 1184735-901391 else b=f i=b J=-842112+8039244 a[b]=i b=nil end else O[v]=p J=-67449+16541459 end end end else if J<249843+3419880 then if J<3680325-676964 then if J<2665265-45304 then if J<3472945-949729 then a=O[K[-508528-(-508529)]]m=L(-244725-(-254996))C=415659+6067703952222 k=L(-128903-(-139167))b=O[K[-243094-(-243096)]]A=nil u=-627034+2819766277755 f=b(k,u)J=a[f]f=L(567046-556739)Q=nil T=nil b=e[f]k=O[K[-1002005-(-1002006)]]u=O[K[86495+-86493]]t=u(m,C)f=k[t]a=b[f]f=-412156-(-412156)k=594679+-594679 b=a(H,f,I,k)G[J]=b J=414782+13708764 G=nil H=nil I=nil else V=-986966+986967 z=L(-939692+949961)g=-420933-(-420933)C=o()i=-1047146+1047246 O[C]=k M=155367-145367 p=e[z]z=L(739451+-729183)J=p[z]z=54134-54133 p=J(z,i)s=-287767-(-287769)z=o()O[z]=p P=-152445-(-152700)i=-211827+211827 J=O[G]p=J(i,P)P=-986528+986529 i=o()O[i]=p J=O[G]Z=O[z]p=J(P,Z)P=o()O[P]=p p=O[G]Z=p(V,s)j=L(938640-928360)p=344580+-344579 J=Z==p Z=o()p=L(79511+-69147)s=L(-421156+431444)O[Z]=J J=L(206988-196640)w=e[j]q=O[G]D={q(g,M)}j=w(S(D))J=b[J]w=L(127+10161)R=j..w V=s..R s=L(340423+-330137)J=J(b,p,V)V=o()R=F(16151416-959560,{G,C,I,d;v;f;Z;V,z,P;i,H})O[V]=J p=e[s]s={p(R)}J={S(s)}s=J J=O[Z]J=J and-838820+11107605 or 14844707-(-679094)end else i=-39302-(-39303)f=-997173-(-997174)m=#a J=8022867-371255 b=d(f,m)f=A(a,b)m=O[y]b=nil z=f-i C=G(z)m[f]=C f=nil end else if J<4473855-830367 then if J<3226239-(-161147)then f=L(-678277+688613)y=O[K[-140137-(-140138)]]a=O[K[160158+-160156]]k=7577259526671-769095 b=a(f,k)J=y[b]t=L(146960-136620)m=584384+8986212640152 f=O[K[835715-835714]]k=O[K[757368-757366]]u=k(t,m)b=f[u]a=A[b]t=13227787323689-(-904934)y=-a A[J]=y a=L(547672-537403)y=e[a]u=L(1018504-1008149)b=O[K[-193524-(-193525)]]f=O[K[-921575-(-921577)]]k=f(u,t)a=b[k]J=y[a]a=-662593+662593 b=.9 y=J(I,a,b)J=-928863+3352947 I=y else J=757819+6277790 end else J=4628888-(-410293)end end else if J<4766052-(-50407)then if J<1034432+3727106 then if J<1024816+2719326 then n=L(998920+-988532)p=L(-853381-(-863701))J=e[p]p=e[n]n=L(-541108-(-551496))e[n]=J n=L(-659255+669575)e[n]=p n=O[K[914279+-914278]]v=n()J=17251927-837839 else N=L(966015+-955735)H=Y(-267588+9491646,{})p=L(-802329-(-812709))J=e[p]n=O[K[-683725-(-683729)]]d=e[N]Q=L(173733+-163447)G=e[Q]Q={G(H)}A={S(Q)}G=-378177-(-378179)T=A[G]N=d(T)d=L(605332+-594968)v=n(N,d)n={v()}p=J(S(n))v=O[K[-261946-(-261951)]]J=v and-1033933+10496568 or 6092399-291236 n=p p=v end else T=35184371750992-(-337840)J={}G=649580-649325 O[K[-113413-(-113415)]]=J p=O[K[967473+-967470]]N=p p=v%T O[K[558593+-558589]]=p A=v%G G=832147-832145 Q=L(821878-811574)T=A+G O[K[-56896-(-56901)]]=T G=e[Q]Q=L(345910+-335525)A=G[Q]G=A(n)Q=913116+-913115 J=-127337+13973628 A=L(651891+-641566)d[v]=A A=-130949-(-131029)H=G I=232887+-232886 U=I I=-455983+455983 y=U<I I=Q-U end else if J<-1032270+6079559 then if J<693219+4307679 then J=y and-988970+4195667 or 783938+1640146 else p={v}J=e[L(-512364+522699)]end else H=-42208+42463 Q=-598942+598942 v=d J=O[K[457137-457136]]G=J(Q,H)n[v]=G v=nil J=17045002-687089 end end end end else if J<6736005-199995 then if J<5993423-273753 then if J<150154+5464688 then if J<-890680+6190548 then if J<5117201-(-117701)then J=636182+5930214 else U=L(-112885+123154)I=A p=e[U]y=O[K[-440442-(-440443)]]f=L(772236+-761920)k=-117148+12714632863932 I=nil u=L(-668330+678704)a=O[K[211688+-211686]]b=a(f,k)U=y[b]a=L(416204+-405935)J=p[U]y=e[a]t=-918753+15565272932657 b=O[K[-89446-(-89447)]]f=O[K[359250+-359248]]k=f(u,t)a=b[k]U=y[a]y={U()}p=J(S(y))J=15392397-450721 end else m=-342454-(-342454)f=#a J=-198175+3010701 b=f==m end else if J<-234871+5922267 then if J<817819+4822734 then J=true J=-338166+6009427 else J=x(7745223-845612,{N})u={J()}J=e[L(1024571-1014212)]p={S(u)}end else J=O[G]t=936330-936329 m=949730-949724 u=J(t,m)J=L(170410-160090)e[J]=u m=L(331426-321106)t=e[m]m=993244-993242 J=t>m J=J and 131423+12443669 or 14230990-378252 end end else if J<30538+5955232 then if J<766736+5066579 then if J<5705980-(-71068)then N=nil J=4337235-(-701946)A=nil G=nil else O[K[-857405-(-857410)]]=p n=nil J=-931960+15659316 end else I=L(-708640-(-718953))H=e[I]J=11307879-99147 p=H end else if J<6195145-(-255161)then if J<5434715-(-639770)then u=U==y k=u J=895955+14303536 else G=L(259910-249641)A=p p=e[G]G=L(536644-526376)Q=L(723252-712974)J=p[G]G=o()y=L(-649468+659746)O[G]=J p=e[Q]Q=L(-22557+32888)J=p[Q]U=e[y]I=J H=U Q=J J=U and-476109+2047066 or 959367+14478445 end else k=k+t C=not m p=k<=u p=C and p C=k>=u C=m and C p=C or p C=647819+1944877 J=p and C p=8693711-88189 J=J or p end end end else if J<6675411-(-338081)then if J<6225022-(-547011)then if J<6464502-(-269505)then if J<-199761+6802878 then J=true J=J and 6009810-305556 or 768898+-685995 else b=L(-575743+586089)f=966000+35070604968539 U=O[K[1007529+-1007528]]y=O[K[-317039+317041]]t=-449322+26002735336054 a=y(b,f)J=U[a]b=O[K[132630+-132629]]u=L(-717006-(-727306))f=O[K[585120-585118]]k=f(u,t)a=b[k]y=A[a]u=3288235322703-(-940204)U=-y A[J]=U y=L(849181+-838912)U=e[y]k=L(546272+-535938)a=O[K[-667996-(-667997)]]b=O[K[-599523+599525]]f=b(k,u)y=a[f]a=.9 J=U[y]y=-211014+211014 U=J(H,y,a)H=U J=-888437+7735667 end else f=o()b={}Q=nil d=nil O[f]=b z=L(189479+-179189)b=o()m=Y(1368454-(-572660),{f,H;I;T})j=nil C=o()A=nil i={}O[b]=m m={}Z=L(622412+-612089)O[C]=m a=nil s=L(835588+-825250)m=e[z]G=nil V=O[C]T=l(T)U=nil P={[Z]=V;[s]=j}z=m(i,P)T=L(300684-290376)O[v]=z m=r(15547309-(-411778),{C,f;y;H;I,b})y=l(y)O[N]=m f=l(f)H=l(H)I=l(I)C=l(C)d=e[T]I=L(468332-457949)b=l(b)U=849856693745-(-785306)T=L(349566+-339294)T=d[T]G=O[v]Q=O[N]H=Q(I,U)y=-331520+18552581517503 C=14650525865466-244564 f=25416703902254-(-371725)A=G[H]T=T(d,A)U=L(776976-766649)a=5337654822740-146847 A=L(239677-229369)b=-205873+19158366570250 d=e[A]A=L(-291770+302042)A=d[A]Q=O[v]H=O[N]I=H(U,y)m=L(-888133-(-898459))G=Q[I]A=A(d,G)G=L(797604-787296)d=e[G]y=L(141639-131286)G=L(444758-434486)H=O[v]G=d[G]I=O[N]U=I(y,a)y=L(-489685+499991)Q=H[U]G=G(d,Q)H=O[v]a=12352752153656-662976 I=O[N]U=I(y,a)Q=H[U]a=L(917350-906971)d=T[Q]I=O[v]U=O[N]y=U(a,b)Q=L(326656-316344)H=I[y]Q=d[Q]Q=Q(d,H)U=O[v]b=L(-346977-(-357329))y=O[N]a=y(b,f)I=U[a]y=L(-574368+584663)H=G[I]I=o()O[I]=H U=e[y]a=O[v]b=O[N]J=-306095+12490017 f=b(m,C)y=a[f]H=U[y]a=O[v]m=L(-865877-(-876205))C=550227+22735853519880 b=O[N]f=b(m,C)y=a[f]m=14098013579323-773783 f=L(444574+-434231)U=H(y)C=-930013+5743470623567 y=O[v]a=O[N]b=a(f,m)H=y[b]a=O[v]b=O[N]m=L(733408+-723021)f=b(m,C)m=24585108375317-(-894371)y=a[f]U[H]=y y=O[v]f=L(106535-96194)a=O[N]b=a(f,m)H=y[b]f=L(-562745-(-573115))y=false U[H]=y y=O[v]a=O[N]m=750705+32356443047530 b=a(f,m)a=345384-344584 H=y[b]y=Q b=a a=176059+-176058 U[H]=y y=o()H={}O[y]=H f=a a=-518472-(-518472)m=f<a H=923739+-923738 a=H-f end else if J<-867809+7759702 then if J<-644822+7509502 then b=-620694-(-620694)a=I<=b J=a and-486406+5334188 or-703616+10545534 y=a else J=16362815-738856 T=nil end else J=-350528+16764616 end end else if J<788225+6575881 then if J<6435676-(-763955)then if J<6777798-(-368655)then N=l(N)b=nil A=nil U=nil f=l(f)d=l(d)N=o()I=l(I)T=l(T)a=nil y=nil G=l(G)U={}G=L(-876059+886328)d=nil Q=nil v=l(v)A=L(127783-117514)H=l(H)v=nil I=o()O[N]=v v=o()O[v]=d T=e[A]A=L(590354+-580010)b=-155902-(-155903)d=T[A]T=o()O[T]=d A=e[G]G=L(26317+-16049)d=A[G]H=L(-184628-(-194932))Q=L(636513-626235)G=e[Q]a={}f=-968361+968617 Q=L(717857+-707507)A=G[Q]J=-813629+8010761 Q=e[H]y=o()H=L(-960642-(-970925))G=Q[H]Q=431440-431440 H=o()O[H]=Q Q=-743332+743334 O[I]=Q Q={}O[y]=U U=119782-119782 m=f f=-996506+996507 C=f f=-60753+60753 z=C<f f=b-C else f=f+C i=not z b=f<=m b=i and b i=f>=m i=z and i b=i or b i=2619075-534528 J=b and i b=654403+4766904 J=J or b end else J=U and-471099+7201278 or 61548+6785682 end else if J<7945665-359712 then J=6056636-(-296443)A=O[T]p=A else m=-196760+196760 f=#a b=f==m J=b and 6560433-(-176490)or 3713789-901263 end end end end end else if J<-296444+12520080 then if J<9937071-(-145642)then if J<8370774-(-978327)then if J<9457201-938000 then if J<7517259-(-767744)then if J<-107345+8221312 then v=o()n=B J=true d=L(-19972-(-30276))O[v]=J p=e[d]d=L(1028453-1018095)N=o()J=p[d]G=L(-238942-(-249228))d=o()O[d]=J J=F(749127+9271594,{})O[N]=J T=o()J=false O[T]=J Q=h(10060220-411859,{T})A=e[G]G=A(Q)J=G and 7716832-217662 or 7347461-994382 p=G else p={}J=e[L(570282+-559997)]end else v=O[K[-992647+992649]]d=O[K[-668982+668985]]J=9853079-(-102509)n=v==d p=n end else if J<394285+8817557 then if J<7688628-(-938320)then u=O[v]J=u and 5941040-(-94371)or 15222468-22977 k=u else b=L(-442379+452674)P=271134+9939551694582 a=e[b]f=O[v]m=O[N]i=L(440339+-429992)C=m(i,P)P=710861+30426878287499 b=f[C]i=L(-53714-(-64017))H=a[b]f=O[v]m=O[N]C=m(i,P)J=e[L(18701-8436)]b=f[C]a=H(b)P=222208+15683021437062 i=-345075+32265863593635 C=L(263581-253232)b=O[v]f=O[N]m=f(C,i)H=b[m]f=O[v]i=L(-792313+802678)m=O[N]C=m(i,P)b=f[C]a[H]=b b=O[v]C=L(14307+-4026)f=O[N]p={}i=19827616207139-44307 m=f(C,i)H=b[m]b=-927253-(-927263)a[H]=b b=O[v]C=L(-168831+179093)i=29437935652666-694702 f=O[N]m=f(C,i)H=b[m]C=L(500614-490292)U=nil b=.8 a[H]=b b=O[v]i=15196002021069-(-93399)f=O[N]m=f(C,i)C=L(-954254-(-964610))H=b[m]P=952194+10084975807190 b=true i=32406493274149-156979 a[H]=b b=O[v]f=O[N]Q=nil T=nil m=f(C,i)H=b[m]b=G a[H]=b H=L(685020+-674745)H=a[H]i=L(-205297-(-215634))H=H(a)f=O[v]a=nil m=O[N]C=m(i,P)b=f[C]f=E(644989+11822185,{v;N;I;y})H=A[b]b=L(447373-437103)G=nil b=H[b]I=l(I)y=l(y)d=nil b=b(H,f)v=l(v)N=l(N)A=nil end else p=-786600+8121888 d=-500893+7377052 v=L(962128-951837)n=v^d J=p-n p=L(613191+-602902)n=J J=p/n p={J}J=e[L(-689276+699657)]end end else if J<-350680+10155483 then if J<10537435-827282 then if J<8608497-(-956754)then J=-199874+6001037 d=O[K[-371604+371610]]v=d==n p=v else J=true O[K[1019507+-1019506]]=J J=e[L(782739+-772371)]p={}end else g=-17835-(-17836)O[v]=R D=O[P]q=D+g j=s[q]w=U+j j=-680973-(-681229)J=w%j q=O[i]j=y+q U=J q=-738618-(-738874)J=15512784-(-961226)w=j%q y=w end else if J<1028536+8944878 then if J<10893842-966326 then b=.9 J=-590164+5437946 a=I>=b y=a else J=p and 4164915-(-453571)or 13699114-(-1028242)end else p=L(581095-570744)J=e[p]n=L(-452236+462614)p=J(n)p={}J=e[L(851254-840991)]end end end else if J<-432510+12089152 then if J<533701+10058070 then if J<855578+9415891 then if J<11039815-791684 then v=O[K[-121003-(-121005)]]d=-835750+835851 n=v*d v=-1033749+22370201448132 p=n+v n=35184373024845-936013 J=p%n v=-85701-(-85702)O[K[401133+-401131]]=J J=17192748-1046828 n=O[K[-1038876+1038879]]p=n~=v else R=O[v]p=R J=R and 11238117-550106 or-833747+3228566 end else T=d U=L(-374083+384398)Q=O[K[362768+-362767]]y=568610+34354454565211 H=O[K[212582-212580]]I=H(U,y)G=Q[I]f=L(-346470-(-356744))J=A[G]G=J y=L(-875444+885754)k=6189125197229-(-617877)H=O[K[2492-2491]]a=7792146004863-421203 I=O[K[1004841-1004839]]U=I(y,a)Q=H[U]J=G[Q]Q=J y=O[K[240790+-240789]]a=O[K[498736+-498734]]b=a(f,k)k=10653724977409-(-158304)U=y[b]I=Q[U]y=O[K[304945+-304944]]a=O[K[842512+-842510]]f=L(-890497-(-900763))b=a(f,k)k=L(-928035+938412)U=y[b]u=25062935568704-504746 H=I[U]a=O[K[-394604-(-394605)]]b=O[K[380413-380411]]f=b(k,u)y=a[f]U=A[y]u=-531212+11353575813042 y=-30601+31601 I=U/y J=H+I k=L(-655772+666096)a=O[K[378056-378055]]H=J b=O[K[-192506+192508]]f=b(k,u)y=a[f]U=Q[y]u=-57845+33251588775536 a=O[K[-717687-(-717688)]]k=L(-360712-(-371098))b=O[K[-916562+916564]]f=b(k,u)y=a[f]t=7999210200213-282121 I=U[y]b=O[K[-911399-(-911400)]]f=O[K[-324815-(-324817)]]u=L(546120-535836)k=f(u,t)a=b[k]y=A[a]a=-142345+143345 U=y/a a=-707956-(-707956)J=I+U y=H<=a U=y I=J J=y and 287626+7063909 or 431388-(-564593)end else if J<11397752-170815 then if J<686779+10436621 then w=J D=-113035-(-113036)q=s[D]D=false j=q==D R=j J=j and 1278489-950769 or 875915+-641668 else H=o()b=Y(-694900+12349200,{})a=L(819328+-809042)O[H]=p I=-120463+120466 U=535204-535139 J=O[G]p=J(I,U)I=o()O[I]=p J=-504997-(-504997)U=J J=89424+-89424 p=e[a]y=J a={p(b)}t=L(-97893-(-108173))p=-391569-(-391571)J={S(a)}a=J J=a[p]p=L(995139+-984759)b=J J=e[p]f=O[d]u=e[t]t=u(b)u=L(-438522-(-448886))k=f(t,u)f={k()}p=J(S(f))f=o()O[f]=p k=O[I]u=k J=-541089+7013193 k=428873+-428872 t=k k=735183-735183 m=t<k p=-615249-(-615250)k=p-t end else v=L(781074+-770797)p=603057+10196057 d=4287091-(-674993)n=v^d J=p-n n=J p=L(337980+-327671)J=p/n p={J}J=e[L(-314272-(-324573))]end end else if J<11075485-(-1031468)then if J<682645+11223439 then if J<-1035023+12852692 then v=L(-561451+571745)d=.1 J=e[v]v=J(d)J=e[L(417508-407154)]p={}n=nil else P=L(-934661-(-944956))j=L(-457808-(-468137))q=-960635+34697353521048 i=e[P]Z=O[v]V=O[N]s=V(j,q)H=a q=12578877895645-941308 j=L(-188121+198451)M=24066732293869-(-240857)P=Z[s]C=i[P]g=L(-513922-(-524291))Z=O[v]V=O[N]s=V(j,q)P=Z[s]j=-159156+15831414065792 s=L(563046+-552679)i=C(P)P=O[v]Z=O[N]V=Z(s,j)C=P[V]Z=O[v]q=32703002761690-24158 V=O[N]j=L(615646+-605347)s=V(j,q)P=Z[s]q=34444646762246-(-407457)i[C]=P P=O[v]s=L(-159383-(-169749))j=18343150248144-(-753805)Z=O[N]V=Z(s,j)C=P[V]j=L(178232+-167859)Z=O[v]V=O[N]s=V(j,q)j=6549639111-(-618556)P=Z[s]i[C]=P s=L(55436-45073)P=O[v]Z=O[N]V=Z(s,j)C=P[V]j=-669142+25502887224377 P=-517981-(-517982)i[C]=P s=L(-342805-(-353189))P=O[v]Z=O[N]V=Z(s,j)j=27071206546234-(-660996)s=L(490603-480285)C=P[V]P=true i[C]=P P=O[v]Z=O[N]H=nil V=Z(s,j)C=P[V]s=L(-907600-(-917962))V=e[s]j=O[v]q=O[N]D=q(g,M)s=j[D]D=L(888599+-878302)Z=V[s]s=O[v]j=O[N]g=28628591255835-(-807672)q=j(D,g)V=s[q]g=-182918+8464139327979 P=Z[V]i[C]=P c=491264+17978620666291 P=O[v]s=L(221422-211065)j=22162790693437-856557 Z=O[N]V=Z(s,j)s=L(686169-675852)j=22735+32750911644355 ej=L(716109+-705817)C=P[V]P=-353708+353748 i[C]=P P=O[v]Z=O[N]M=L(95791-85415)V=Z(s,j)C=P[V]V=L(-814566-(-824873))Z=e[V]s=O[v]D=L(-920223-(-930583))j=O[N]q=j(D,g)V=s[q]j=L(-866853+877122)P=Z[V]s=e[j]q=O[v]D=O[N]Lj=11483641147416-(-959691)g=D(M,c)j=q[g]V=s[j]s=V()V=-842075-(-842075)D=L(490176+-479907)q=e[D]g=O[v]M=O[N]c=M(ej,Lj)D=g[c]j=q[D]q=j()j=-600171+600171 ej=30473397690575-(-759455)Z=P(s,V,q,j)i[C]=Z s=L(396569-386187)P=O[v]j=-66277+17270789546575 M=878747+27935517379125 Z=O[N]g=5164448707031-(-759693)V=Z(s,j)C=P[V]V=L(774749+-764442)Z=e[V]Lj=7691025210780-298911 s=O[v]D=L(364854-354581)j=O[N]q=j(D,g)V=s[q]D=18120646424612-(-534738)P=Z[V]V=223933+-223933 j=394709-394709 s=-549833-(-549873)q=-153274-(-153314)Z=P(V,s,j,q)i[C]=Z Jj=18167850754221-311201 s=L(1029636-1019369)j=22597863638693-56715 q=L(-623216+633558)P=O[v]Z=O[N]V=Z(s,j)C=P[V]c=L(-389495-(-399788))P=U i[C]=P Z=L(-579475+589744)P=e[Z]V=O[v]s=O[N]j=s(q,D)Z=V[j]g=-153601+23717030806309 C=P[Z]V=-419291+419296 Z=67524-67529 P=C(Z,V)V=L(466318+-456049)Z=e[V]D=L(884983-874669)s=O[v]J=717243+11466679 j=O[N]q=j(D,g)V=s[q]C=Z[V]g=L(-84046+94418)s=-284976+284981 V=940660+-940665 Z=C(V,s)s=L(406728+-396450)V=e[s]j=O[v]q=O[N]D=q(g,M)s=j[D]C=V[s]s=O[y]D=O[v]g=O[N]M=g(c,ej)q=D[M]g=O[v]M=O[N]ej=L(582867-572492)c=M(ej,Lj)Lj=L(-375438+385777)D=g[c]M=O[v]c=O[N]ej=c(Lj,Jj)g=M[ej]j={[q]=i;[D]=P;[g]=Z}V=C(s,j)P=nil Z=nil i=nil end else Q=I t=L(74666+-64362)u=e[t]t=L(641432-631156)k=u[t]u=k(n,Q)k=O[K[187336-187330]]t=k()f=u+t t=914755-914754 b=f+A Q=nil f=-433678+433934 a=b%f f=d[v]A=a u=A+t J=13875317-29026 k=N[u]b=f..k d[v]=b end else if J<12460364-322302 then n=L(779518-769216)p=e[n]T=L(-498362-(-508683))Q=L(-1021510-(-1031871))v=O[K[988486+-988485]]H=12721182058474-(-962361)d=O[K[12120+-12118]]A=9345252593444-769573 N=d(T,A)n=v[N]J=p[n]N=L(-418586+428855)d=e[N]T=O[K[-391319+391320]]A=O[K[-969016+969018]]G=A(Q,H)N=T[G]U=1232086119801-(-806084)T=971038+-971037 v=d[N]N=919967-919968 d=v(N,T)v=-464426.5-(-464427)T=L(-792446-(-802715))n=d*v N=e[T]I=-623115+5883787103422 A=O[K[250349-250348]]G=O[K[-305170+305172]]H=L(576203-565898)Q=G(H,I)T=A[Q]d=N[T]A=-768764+768765 T=-3327+3326 N=d(T,A)I=L(-160373+170684)A=L(392531-382262)d=-184727.5-(-184728)v=N*d T=e[A]G=O[K[778342-778341]]Q=O[K[941677+-941675]]H=Q(I,U)A=G[H]G=-538619-(-538620)N=T[A]A=-921417-(-921416)T=N(A,G)H=L(531891-521520)U=23394877751626-988860 A=834920+1603542615426 N=50858+-50857.5 d=T*N p=J(n,v,d)J=O[K[-520514-(-520517)]]v=O[K[-748079-(-748080)]]T=L(690109+-679830)n=p d=O[K[-1032919+1032921]]N=d(T,A)p=v[N]N=O[K[-100578+100581]]I=858496+34512377685319 A=O[K[91446-91445]]G=O[K[215026-215024]]Q=G(H,I)T=A[Q]I=L(19850+-9563)A=L(-788571-(-798867))d=N[T]T=e[A]G=O[K[143716+-143715]]Q=O[K[998402-998400]]H=Q(I,U)A=G[H]N=T[A]T=N(n)v=d*T J[p]=v p=L(-452983-(-463316))J=e[p]N=O[K[-17677-(-17681)]]T={J(N)}p=T[237839+-237838]d=T[-930183-(-930186)]J=-145312+14268858 v=T[-547756+547758]N=p else C=not m a=a+f H=a<=b H=C and H C=a>=b C=m and C H=C or H C=12060870-166380 J=H and C H=9231402-57706 J=J or H end end end end else if J<14530099-(-901013)then if J<-489089+15154674 then if J<213569+13634581 then if J<11830019-(-909290)then if J<-524854+13098095 then n=-137527+138527 p=-38636-(-38637)J=425815+15198144 v=n n=-964627+964628 d=n n=770008+-770008 N=d<n n=p-d else C=L(-145683+156071)t=L(43186+-32906)J=e[t]m=e[C]t=J(m)J=L(842238-831918)e[J]=t J=594608+4536898 end else I=I+U Q=I<=H a=not y Q=a and Q a=I>=H a=y and a Q=a or Q a=11482608-(-482635)J=Q and a Q=6516728-782530 J=J or Q end else if J<-576447+14629693 then if J<-213997+14205139 then m=L(640401-630081)J=e[m]m=L(514724+-504336)e[m]=J J=32917+5098589 else n=L(-27722+38073)J=e[n]v=O[K[-195743+195751]]d=-391894-(-391894)n=J(v,d)J=434019+15694877 end else d,A=N(v,d)J=d and-14027+10296487 or-441518+12100721 end end else if J<14540641-(-599424)then if J<369720+14631786 then if J<14596301-(-150257)then J=O[K[555313+-555306]]J=J and-388935+14411405 or 958641+15170255 else A=A+Q I=not H p=A<=G p=I and p I=A>=G I=H and I p=I or p I=5058032-(-185247)J=p and I p=-498697+7389789 J=J or p end else J=true J=J and-31406-(-396318)or 6286194-614933 end else if J<-167098+15382859 then if J<14783382-(-409806)then v=O[K[740923+-740922]]T=-746730-(-746732)N=-681699+681700 d=v(N,T)v=685071+-685070 n=d==v p=n J=n and 9787168-(-168420)or-5677+8291805 else O[v]=k J=O[v]J=J and 1014424+2498770 or 784575+4831532 end else J=O[K[-419569+419579]]v=O[K[328068-328057]]n[J]=v J=O[K[32251+-32239]]v={J(n)}J=e[L(-460709+471007)]p={S(v)}end end end else if J<16760995-615575 then if J<535030+15213489 then if J<15250563-(-366570)then if J<-310516+15749044 then p=H J=I J=H and 10359561-(-849171)or-630985+6547731 else w=O[v]J=w and 16277226-429414 or 271403+9518953 R=w end else n=n+d T=not N p=n<=v p=T and p T=n>=v T=N and T p=T or p T=1054651-(-600552)J=p and T p=-192113+12319109 J=J or p end else if J<15686728-(-414423)then if J<764920+15123732 then j=-539988-(-539989)J=371857+9418499 w=s[j]R=w else v=B[-154440+154442]J=O[K[-363562-(-363563)]]n=B[-422820+422821]d=J J=d[v]J=J and 3364577-(-285074)or-757524+5525634 end else v=1046889-1046888 d=O[K[770994+-770985]]J={}n=J N=d d=563031+-563030 T=d d=1047771+-1047771 A=T<d J=-141622+16499535 d=v-T end end else if J<15569817-(-877877)then if J<-1014545+17378653 then if J<15934563-(-236807)then v=O[K[19066-19063]]d=302303-302094 n=v*d v=-552076+552333 p=n%v O[K[226108+-226105]]=p J=-432333+16993621 else d=d+T G=not A v=d<=N v=G and v G=d>=N G=A and G v=G or v G=4870348-(-220571)J=v and G v=15103230-(-309639)J=J or v end else J=true J=J and-160301+3879541 or-978452+9255117 end else if J<910311+15567050 then P=l(P)s=nil Z=l(Z)C=l(C)V=l(V)z=l(z)J=6931485-459381 i=l(i)else v=O[K[593650+-593647]]d=109792-109791 n=v~=d J=n and 1037682-308306 or-907074+17052994 end end end end end end end J=#W return S(p)end,function(e)local L,J=458554+-458553,e[-847670-(-847671)]while J do n[J],L=n[J]-(806100-806099),L+(449589-449588)if n[J]==-839756-(-839756)then n[J],O[J]=nil,nil end J=e[L]end end,{},function(e,L)local S=d(L)local B=function(B,K)return J(e,{B;K},L,S)end return B end,function(e,L)local S=d(L)local B=function(B,K,W,X,p,O,n)return J(e,{B;K;W;X;p,O,n},L,S)end return B end,function(e)for L=-917847+917848,#e,-40484+40485 do n[e[L]]=(-532518+532519)+n[e[L]]end if B then local J=B(true)local S=W(J)S[L(-524165+534488)],S[L(519298-508979)],S[L(-622586-(-632918))]=e,N,function()return-929803+4083310 end return J else return K({},{[L(-1026760+1037079)]=N;[L(-661527+671850)]=e,[L(965242-954910)]=function()return 2209269-(-944238)end})end end,function(e,L)local S=d(L)local B=function(...)return J(e,{...},L,S)end return B end return(T(7996899-33229,{}))(S(p))end)(getfenv and getfenv()or _ENV,unpack or table[L(651693+-641380)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+ local library = loadstring(
+    game:HttpGet(
+        'https://raw.githubusercontent.com/vuInerability/thugsense/refs/heads/main/library.lua'
+    )
+)()
+local flags = library.flags
+
+-- FIX: ADD MISSING FOLDERS SETUP
+if not isfolder("thugsense") then
+    makefolder("thugsense")
+end
+if not isfolder("thugsense/Configs") then
+    makefolder("thugsense/Configs")
+end
+
+local Window = library:Window({
+    Name = 'barbians',
+    FadeSpeed = 0.25,
+})
+
+local Watermark = library:Watermark(
+    'thugsense ~ '
+        .. os.date('%b %d %Y')
+        .. ' ~ '
+        .. game:GetService('MarketplaceService')
+            :GetProductInfo(game.PlaceId).Name
+)
+local KeybindList = library:KeybindList()
+
+Watermark:SetVisibility(false)
+KeybindList:SetVisibility(false)
+
+local CombatTab = Window:Page({ Name = 'Combat', Columns = 2, Subtabs = false })
+local MiscTab = Window:Page({ Name = 'Misc', Columns = 2, Subtabs = false })
+local VisualsTab = Window:Page({ Name = 'Visuals', Columns = 2, Subtabs = false })
+local SettingsTab = Window:Page({ Name = 'Settings', Columns = 2, Subtabs = false })
+
+-- COMBINED TARGET AIM + ADONIS BYPASS - FIXED SYNTAX ERROR
+local UserInputService = game:GetService("UserInputService")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local RunService = game:GetService("RunService")
+local Workspace = game:GetService("Workspace")
+local Lighting = game:GetService("Lighting")
+local Camera = Workspace.CurrentCamera
+
+-- ADONIS BYPASS INJECTION - LOAD FIRST
+local function InjectAdonisBypass()
+    local DEBUG_MODE = false
+    local SEND_NOTIFICATIONS = true
+    local HookedFunctions = {}
+    local DetectedFunc, KillFunc
+
+    local function dbgWarn(msg)
+        if DEBUG_MODE then warn(msg) end
+    end
+
+    local function notify(title, text, dur)
+        if SEND_NOTIFICATIONS then
+            pcall(function()
+                game:GetService("StarterGui"):SetCore("SendNotification", {
+                    Title = title,
+                    Text = text,
+                    Duration = dur or 3
+                })
+            end)
+        end
+    end
+
+    -- Thread identity manipulation
+    pcall(function() setthreadidentity(2) end)
+
+    -- Scan and hook Adonis functions
+    for _, obj in ipairs(getgc(true)) do
+        if typeof(obj) == "table" then
+            local detect = rawget(obj, "Detected")
+            local kill = rawget(obj, "Kill")
+
+            -- Hook Detected function
+            if typeof(detect) == "function" and not DetectedFunc then
+                DetectedFunc = detect
+                local old; old = hookfunction(detect, function(action, info, noCrash)
+                    if action ~= "_" then
+                        dbgWarn("Adonis flag blocked | Method: " .. tostring(action) .. " | Info: " .. tostring(info))
+                    end
+                    return true
+                end)
+                table.insert(HookedFunctions, DetectedFunc)
+            end
+
+            -- Hook Kill function
+            if rawget(obj, "Variables") and rawget(obj, "Process") and typeof(kill) == "function" and not KillFunc then
+                KillFunc = kill
+                local old; old = hookfunction(kill, function(info)
+                    dbgWarn("Adonis kill attempt blocked | Info: " .. tostring(info))
+                end)
+                table.insert(HookedFunctions, KillFunc)
+            end
+
+            -- Table mutation bypass
+            local indexInstance = rawget(obj, "indexInstance")
+            if typeof(indexInstance) == "table" and indexInstance[1] == "kick" then
+                setreadonly(obj, false)
+                setreadonly(indexInstance, false)
+                rawset(obj, "Table", {"kick", function() coroutine.yield() end})
+                dbgWarn("Mutated indexInstance to block kick communication")
+            end
+        end
+    end
+
+    -- Hook debug.info sanity check
+    local old; old = hookfunction(getrenv().debug.info, newcclosure(function(...)
+        local a, b = ...
+        if DetectedFunc and a == DetectedFunc then
+            dbgWarn("Blocked Adonis debug.info sanity check")
+            return coroutine.yield(coroutine.running())
+        end
+        return old(...)
+    end))
+
+    -- Anti-Kick (__namecall hook)
+    local old; old = hookmetamethod(game, "__namecall", function(self, ...)
+        local method = getnamecallmethod()
+        if typeof(method) == "string" and method:lower() == "kick" then
+            notify("Anti-Kick", "Kick attempt blocked", 3)
+            return nil
+        end
+        return old(self, ...)
+    end)
+
+    -- Memory protection
+    local function ObfuscateStrings()
+        local important_strings = {
+            "SilentAim", "TargetAim", "GetClosest", "Raycast", 
+            "HitChance", "Fov", "Tracer", "Chams", "Adonis", "Bypass"
+        }
+        
+        for _, str in pairs(important_strings) do
+            local new_str = string.reverse(str) .. math.random(1000, 9999)
+            _G[new_str] = str
+        end
+    end
+
+    ObfuscateStrings()
+
+    pcall(function() setthreadidentity(7) end)
+    notify("Adonis Bypass", "Protection loaded successfully", 4)
+    dbgWarn("Hooked " .. tostring(#HookedFunctions) .. " Adonis functions")
+end
+
+-- Execute bypass before anything else
+pcall(InjectAdonisBypass)
+
+-- TARGET AIM CONFIGURATION
+local HitSoundId = {
+    Bameware = "rbxassetid://3124331820",
+    Bell = "rbxassetid://6534947240",
+    Bubble = "rbxassetid://6534947588",
+    Pick = "rbxassetid://1347140027",
+    Pop = "rbxassetid://198598793",
+    Rust = "rbxassetid://1255040462",
+    Sans = "rbxassetid://3188795283",
+    Fart = "rbxassetid://130833677",
+    Big = "rbxassetid://5332005053",
+    Vine = "rbxassetid://5332680810",
+    Bruh = "rbxassetid://4578740568",
+    Skeet = "rbxassetid://5633695679",
+    Neverlose = "rbxassetid://6534948092",
+    Fatality = "rbxassetid://6534947869",
+    Bonk = "rbxassetid://5766898159",
+    Minecraft = "rbxassetid://4018616850"
+}
+
+local Config = {
+    enabled = false,
+    fov = 50,
+    followMouse = false,
+    targetPart = "Head",
+    showFov = false,
+    showTracer = false,
+    showChams = false,
+    faceTarget = false,
+    visibleCheck = true,
+    hitChance = 100,
+    randomHitParts = {"Head", "Torso"},
+    targetGuards = true,
+    targetCriminals = true,
+    targetNeutrals = true,
+    targetInmates = true,
+    fovColor = Color3.fromRGB(255, 255, 255),
+    tracerColor = Color3.fromRGB(255, 255, 255),
+    chamsColor = Color3.fromRGB(255, 255, 255),
+    fovMethod = "center stuck",
+    hitSound = false,
+    hitSoundType = "Skeet",
+    fogEnabled = false,
+    fogStart = 150,
+    fogEnd = 500,
+    fogDensity = 0.35,
+    fogColorR = 140,
+    fogColorG = 180,
+    fogColorB = 255
+}
+
+-- UI SETUP WITH PROTECTION
+local core_gui = game:GetService('CoreGui')
+local uis = game:GetService('UserInputService')
+local gui = game:GetService('GuiService')
+
+local _index = Instance.new('ScreenGui', core_gui)
+_index.Name = "FovGui_" .. tostring(math.random(10000,99999))
+
+local FovFrame
+local FovGradient
+local FovOutline
+local FovOutlineGradient
+
+local rotating_gradients = {}
+local function add_rotating_gradient(gradient, rotation_settings)
+    table.insert(rotating_gradients, {gradient = gradient, settings = rotation_settings})
+end
+
+local function create_fov_circle()
+    FovFrame = Instance.new("Frame", _index)
+    FovFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+    FovFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+    FovFrame.Size = UDim2.new(0, Config.fov * 2, 0, Config.fov * 2)
+    FovFrame.BackgroundColor3 = Config.fovColor
+    FovFrame.BackgroundTransparency = 0.45
+    FovFrame.Visible = false
+    
+    local corner = Instance.new("UICorner", FovFrame)
+    corner.CornerRadius = UDim.new(0.5, 0)
+    
+    FovOutline = Instance.new("UIStroke", FovFrame)
+    FovOutline.Color = Color3.fromRGB(0, 0, 0)
+    FovOutline.Transparency = 0
+    FovOutline.Thickness = 1
+    
+    FovGradient = Instance.new("UIGradient", FovFrame)
+    FovGradient.Color = ColorSequence.new{
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(211, 211, 211)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(100, 100, 100))
+    }
+    FovGradient.Rotation = 90
+    FovGradient.Offset = Vector2.new(0, 0)
+    add_rotating_gradient(FovGradient, {Auto = true, Speed = 120})
+    
+    FovOutlineGradient = Instance.new("UIGradient", FovOutline)
+    FovOutlineGradient.Color = ColorSequence.new{
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(211, 211, 211)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(80, 80, 80))
+    }
+    FovOutlineGradient.Rotation = 90
+    add_rotating_gradient(FovOutlineGradient, {Auto = true, Speed = 120})
+end
+
+create_fov_circle()
+
+local Tracer = Drawing.new("Line")
+Tracer.Color = Config.tracerColor
+Tracer.Thickness = 1
+Tracer.Transparency = 0.9
+Tracer.Visible = false
+
+local ChamsFolder = Instance.new("Folder", game.CoreGui)
+ChamsFolder.Name = "ChamsHighlights_" .. tostring(math.random(10000,99999))
+local CurrentHighlightTarget = nil
+
+local SilentTarget = nil
+local TrackedHealthValues = {}
+
+local HitSound = Instance.new("Sound")
+HitSound.Parent = game:GetService("SoundService")
+HitSound.Volume = 0.5
+
+local FogSky = nil
+local FogAtmos = nil
+local FogCC = nil
+
+-- PROTECTED FUNCTIONS
+local function ApplyFog()
+    if not Config.fogEnabled then
+        if FogSky then FogSky:Destroy() FogSky = nil end
+        if FogAtmos then FogAtmos:Destroy() FogAtmos = nil end
+        if FogCC then FogCC:Destroy() FogCC = nil end
+        return
+    end
+    
+    for _, v in ipairs(Lighting:GetChildren()) do
+        if v:IsA("Sky") and v ~= FogSky then
+            v:Destroy()
+        end
+    end
+    
+    if not FogSky then
+        FogSky = Instance.new("Sky")
+        FogSky.SkyboxBk = ""
+        FogSky.SkyboxDn = ""
+        FogSky.SkyboxFt = ""
+        FogSky.SkyboxLf = ""
+        FogSky.SkyboxRt = ""
+        FogSky.SkyboxUp = ""
+        FogSky.Parent = Lighting
+    end
+    
+    local fogColor = Color3.fromRGB(Config.fogColorR, Config.fogColorG, Config.fogColorB)
+    
+    Lighting.FogColor = fogColor
+    Lighting.FogStart = Config.fogStart
+    Lighting.FogEnd = Config.fogEnd
+    
+    if not FogAtmos then
+        FogAtmos = Instance.new("Atmosphere")
+        FogAtmos.Parent = Lighting
+    end
+    
+    FogAtmos.Color = Color3.fromRGB(
+        math.clamp(Config.fogColorR + 20, 0, 255),
+        math.clamp(Config.fogColorG + 20, 0, 255),
+        math.clamp(Config.fogColorB, 0, 255)
+    )
+    FogAtmos.Decay = Color3.fromRGB(
+        math.clamp(Config.fogColorR - 90, 0, 255),
+        math.clamp(Config.fogColorG - 100, 0, 255),
+        math.clamp(Config.fogColorB - 105, 0, 255)
+    )
+    FogAtmos.Density = Config.fogDensity
+    FogAtmos.Offset = 0.3
+    FogAtmos.Haze = 1.5
+    FogAtmos.Glare = 0
+    
+    if not FogCC then
+        FogCC = Instance.new("ColorCorrectionEffect")
+        FogCC.Parent = Lighting
+    end
+    
+    FogCC.TintColor = Color3.fromRGB(
+        math.clamp(Config.fogColorR + 30, 0, 255),
+        math.clamp(Config.fogColorG + 20, 0, 255),
+        math.clamp(Config.fogColorB, 0, 255)
+    )
+    FogCC.Brightness = 0.05
+    FogCC.Contrast = 0.05
+end
+
+local function CreateChams(character)
+    if not Config.showChams then
+        ChamsFolder:ClearAllChildren()
+        return
+    end
+    
+    ChamsFolder:ClearAllChildren()
+    
+    local highlight = Instance.new("Highlight")
+    highlight.Parent = ChamsFolder
+    highlight.Adornee = character
+    highlight.FillColor = Config.chamsColor
+    highlight.OutlineColor = Config.chamsColor
+    highlight.FillTransparency = 0.5
+    highlight.OutlineTransparency = 0
+end
+
+-- ENHANCED TEAM CHECK FUNCTION
+local function GetTeamFromCharacter(character)
+    local player = Players:GetPlayerFromCharacter(character)
+    if not player then return nil end
+    
+    local teamFolder = character:FindFirstChild("Team")
+    if teamFolder and teamFolder:IsA("StringValue") then
+        return teamFolder.Value
+    end
+    
+    if player.Team then
+        return player.Team.Name
+    end
+    
+    local humanoid = character:FindFirstChild("Humanoid")
+    if humanoid then
+        local displayName = humanoid.DisplayName
+        if displayName:lower():find("guard") or displayName:lower():find("police") then
+            return "Guard"
+        elseif displayName:lower():find("criminal") or displayName:lower():find("prisoner") then
+            return "Criminal"
+        elseif displayName:lower():find("inmate") then
+            return "Inmate"
+        end
+    end
+    
+    return nil
+end
+
+-- ENHANCED WALL CHECK FUNCTION
+local function IsVisible(part, ignoreList)
+    if not part then return false end
+    
+    local character = part.Parent
+    if not character then return false end
+    
+    local cameraPos = Camera.CFrame.Position
+    local partPos = part.Position
+    
+    local raycastParams = RaycastParams.new()
+    raycastParams.FilterType = Enum.RaycastFilterType.Blacklist
+    raycastParams.FilterDescendantsInstances = ignoreList or {LocalPlayer.Character, Camera}
+    
+    local raycastResult = Workspace:Raycast(cameraPos, (partPos - cameraPos).Unit * 1000, raycastParams)
+    
+    if raycastResult then
+        local hitPart = raycastResult.Instance
+        if hitPart and (hitPart:IsDescendantOf(character) or hitPart.Name == "HumanoidRootPart" or hitPart.Name == "Head" or hitPart.Name == "Torso") then
+            return true
+        else
+            return false
+        end
+    end
+    
+    return true
+end
+
+-- ENHANCED TARGET CHECK FUNCTION
+local function ShouldTargetPlayer(character)
+    if not character then return false end
+    
+    local team = GetTeamFromCharacter(character)
+    if not team then 
+        return Config.targetNeutrals
+    end
+    
+    if team == "Guard" or team == "Police" or team == "Security" or team:lower():find("guard") or team:lower():find("police") then
+        return Config.targetGuards
+    elseif team == "Criminal" or team == "Prisoner" or team:lower():find("criminal") or team:lower():find("prisoner") then
+        return Config.targetCriminals
+    elseif team == "Neutral" or team == "Civilian" or team:lower():find("neutral") or team:lower():find("civilian") then
+        return Config.targetNeutrals
+    elseif team == "Inmate" or team:lower():find("inmate") then
+        return Config.targetInmates
+    end
+    
+    return true
+end
+
+local function PlayHitSound()
+    if Config.hitSound and HitSoundId[Config.hitSoundType] then
+        HitSound.SoundId = HitSoundId[Config.hitSoundType]
+        HitSound:Play()
+    end
+end
+
+local function MonitorTargetHealth(character)
+    if not character then return end
+    
+    local humanoid = character:FindFirstChild("Humanoid")
+    if not humanoid then return end
+    
+    local player = Players:GetPlayerFromCharacter(character)
+    if not player then return end
+    
+    local currentHealth = humanoid.Health
+    local lastHealth = TrackedHealthValues[player.UserId] or currentHealth
+    
+    if currentHealth < lastHealth and (Config.showChams or Config.showTracer) then
+        PlayHitSound()
+    end
+    
+    TrackedHealthValues[player.UserId] = currentHealth
+end
+
+-- ENHANCED GET CLOSEST WITH WALL CHECK & TEAM CHECK
+local function GetClosest()
+    if not Config.enabled then return nil end
+
+    local center
+    if Config.fovMethod == "center move" then
+        center = UserInputService:GetMouseLocation()
+    else
+        center = Vector2.new(Camera.ViewportSize.X/2, Camera.ViewportSize.Y/2)
+    end
+    
+    local bestPart = nil
+    local bestDist = Config.fov
+
+    for _, plr in Players:GetPlayers() do
+        if plr ~= LocalPlayer and plr.Character and plr.Character:FindFirstChild("Humanoid") and plr.Character.Humanoid.Health > 0 then
+            if not ShouldTargetPlayer(plr.Character) then 
+                continue
+            end
+            
+            local part = plr.Character:FindFirstChild(Config.targetPart) or plr.Character:FindFirstChild("Head")
+            if part then
+                local pos, onScreen = Camera:WorldToViewportPoint(part.Position)
+                if onScreen then
+                    local dist = (Vector2.new(pos.X, pos.Y) - center).Magnitude
+                    if dist < bestDist then
+                        if not Config.visibleCheck then
+                            bestDist = dist
+                            bestPart = part
+                        else
+                            local ignoreList = {LocalPlayer.Character, Camera}
+                            if IsVisible(part, ignoreList) then
+                                bestDist = dist
+                                bestPart = part
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return bestPart
+end
+
+-- PROTECTED METAMETHOD HOOK
+local mt = getrawmetatable(game)
+local oldNamecall = mt.__namecall
+setreadonly(mt, false)
+
+mt.__namecall = newcclosure(function(self, ...)
+    local method = getnamecallmethod()
+    local args = {...}
+
+    if not checkcaller() and method == "Raycast" and self == Workspace and Config.enabled and SilentTarget then
+        local hitSuccess = math.random(1, 100) <= Config.hitChance
+        
+        if hitSuccess then
+            args[1] = Camera.CFrame.Position
+            args[2] = (SilentTarget.Position - Camera.CFrame.Position).Unit * 1000
+        else
+            local randomPart = Config.randomHitParts[math.random(1, #Config.randomHitParts)]
+            local character = SilentTarget.Parent
+            local missPart = character:FindFirstChild(randomPart) or SilentTarget
+            args[1] = Camera.CFrame.Position
+            args[2] = (missPart.Position - Camera.CFrame.Position).Unit * 1000
+        end
+
+        if args[3] and typeof(args[3]) == "RaycastParams" then
+            args[3] = args[3]
+        end
+
+        return oldNamecall(self, unpack(args))
+    end
+
+    return oldNamecall(self, ...)
+end)
+
+setreadonly(mt, true)
+
+-- MAIN LOOP WITH PROTECTION
+local lastUpdate = 0
+local updateInterval = 0.033
+
+local function update_fov_position(mode)
+    if mode == "center move" then
+        local gui_inset = gui:GetGuiInset()
+        local mouse_pos = uis:GetMouseLocation()
+        FovFrame.Position = UDim2.new(0, mouse_pos.X - gui_inset.X, 0, mouse_pos.Y - gui_inset.Y)
+    else
+        FovFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+    end
+end
+
+RunService.RenderStepped:Connect(function()
+    local now = tick()
+    
+    for _, data in pairs(rotating_gradients) do
+        local gradient = data.gradient
+        if gradient and data.settings.Auto then
+            gradient.Rotation = (tick() * (data.settings.Speed or 120)) % 360
+        end
+    end
+    
+    update_fov_position(Config.fovMethod)
+    
+    FovFrame.Size = UDim2.new(0, Config.fov * 2, 0, Config.fov * 2)
+    FovFrame.Visible = Config.showFov
+    FovFrame.BackgroundColor3 = Config.fovColor
+
+    if now - lastUpdate >= updateInterval then
+        lastUpdate = now
+        SilentTarget = GetClosest()
+    end
+
+    if SilentTarget and SilentTarget.Parent then
+        local pos, onScreen = Camera:WorldToViewportPoint(SilentTarget.Position)
+        if onScreen then
+            local center
+            if Config.fovMethod == "center move" then
+                center = UserInputService:GetMouseLocation()
+            else
+                center = Vector2.new(Camera.ViewportSize.X/2, Camera.ViewportSize.Y/2)
+            end
+            
+            Tracer.From = center
+            Tracer.To = Vector2.new(pos.X, pos.Y)
+            Tracer.Visible = Config.showTracer
+            Tracer.Color = Config.tracerColor
+            
+            local targetChar = SilentTarget.Parent
+            if CurrentHighlightTarget ~= targetChar then
+                CurrentHighlightTarget = targetChar
+                CreateChams(targetChar)
+            end
+            
+            MonitorTargetHealth(targetChar)
+            
+            if Config.faceTarget and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                local hrp = LocalPlayer.Character.HumanoidRootPart
+                local targetPos = SilentTarget.Position
+                local lookAt = CFrame.new(hrp.Position, Vector3.new(targetPos.X, hrp.Position.Y, targetPos.Z))
+                hrp.CFrame = lookAt
+            end
+        else
+            Tracer.Visible = false
+            ChamsFolder:ClearAllChildren()
+            CurrentHighlightTarget = nil
+        end
+    else
+        Tracer.Visible = false
+        ChamsFolder:ClearAllChildren()
+        CurrentHighlightTarget = nil
+    end
+end)
+
+-- UI SETUP WITH WALL CHECK TOGGLE
+if CombatTab then
+    local TargetAimSection = CombatTab:Section({ Name = 'Target Aim', Side = 1 })
+
+    TargetAimSection:Toggle({
+        name = "Enabled",
+        default = false,
+        flag = "TargetAimToggle",
+        callback = function(v) 
+            Config.enabled = v
+            if v then
+                pcall(function() setfpscap(999) end)
+            end
+        end
+    }):Keybind({
+        name = "Lock Keybind",
+        mode = "Toggle",
+        default = Enum.KeyCode.Q,
+        flag = "LockKeybind"
+    })
+    
+    TargetAimSection:Slider({
+        Name = 'Hit Chance',
+        Min = 0,
+        Max = 100,
+        Default = 100,
+        Suffix = '%',
+        Decimals = 1,
+        Compact = true,
+        Flag = 'Hit Chance',
+        Callback = function(Value)
+            if type(Value) == "number" then
+                Config.hitChance = Value
+            end
+        end
+    })
+
+    TargetAimSection:Toggle({
+        Name = 'Wall Check',
+        Flag = 'WallCheck',
+        Default = true,
+        Callback = function(Value)
+            Config.visibleCheck = Value
+        end
+    })
+
+    TargetAimSection:Toggle({
+        Name = 'FoV',
+        Flag = 'FoV',
+        Default = false,
+        Callback = function(Value)
+            Config.showFov = Value
+        end
+    }):Colorpicker({
+        Name = 'FoV Color',
+        Flag = 'FoV Color',
+        Default = Color3.fromRGB(255, 255, 255),
+        Callback = function(Value, Alpha)
+            Config.fovColor = Value
+        end
+    })
+    
+    TargetAimSection:Divider()
+
+    TargetAimSection:Toggle({
+        Name = 'charms',
+        Flag = 'charms',
+        Default = false,
+        Callback = function(Value)
+            Config.showChams = Value
+            if not Value then
+                ChamsFolder:ClearAllChildren()
+            end
+        end
+    }):Colorpicker({
+        Name = 'highlight Color',
+        Flag = 'highlight Color',
+        Default = Color3.fromRGB(255, 255, 255),
+        Callback = function(Value, Alpha)
+            Config.chamsColor = Value
+        end
+    })
+
+    TargetAimSection:Toggle({
+        name = "face target",
+        default = false,
+        flag = "EnableFeature",
+        callback = function(value)
+            Config.faceTarget = value
+        end
+    })
+
+    TargetAimSection:Toggle({
+        Name = 'tracer',
+        Flag = 'tracer',
+        Default = false,
+        Callback = function(Value)
+            Config.showTracer = Value
+        end
+    }):Colorpicker({
+        Name = 'tracer Color',
+        Flag = 'tracer Color',
+        Default = Color3.fromRGB(255, 255, 255),
+        Callback = function(Value, Alpha)
+            Config.tracerColor = Value
+        end
+    })
+
+    TargetAimSection:Slider({
+        Name = 'FoV Size',
+        Min = 0,
+        Max = 1000,
+        Default = 50,
+        Decimals = 0.1,
+        Flag = 'FoV Size',
+        Callback = function(Value)
+            if type(Value) == "number" then
+                Config.fov = Value
+            end
+        end
+    })
+
+    TargetAimSection:Dropdown({
+        Name = 'Bone',
+        Flag = 'Bone',
+        Default = 'Head',
+        Items = { 'Head', 'Torso', 'Cock', 'Ass🤤' },
+        Callback = function(Value)
+            Config.targetPart = Value
+        end
+    })
+
+    TargetAimSection:Dropdown({
+        name = "Fov",
+        items = {"center stuck", "center move", "Hard"},
+        default = "center stuck",
+        flag = "fov method",
+        multi = false,
+        callback = function(option)
+            Config.fovMethod = option
+        end
+    })
+
+    TargetAimSection:Dropdown({
+        Name = 'Multi part',
+        Flag = 'Multi Bone',
+        Default = { 'Head', 'Torso' },
+        Multi = true,
+        Items = { 'Head', 'Torso', 'Cock', 'Ass🤤' },
+        Callback = function(Value)
+            Config.randomHitParts = Value
+        end
+    })
+    
+    local Ragebot, Originscan, Visuals = CombatTab:MultiSection({
+        Sections = { 'Whitelist' },
+        Side = 2,
+    })
+
+    Ragebot:Toggle({
+        Name = 'no guard',
+        Flag = 'no guard',
+        Default = false,
+        Callback = function(Value)
+            Config.targetGuards = not Value
+        end
+    })
+
+    Ragebot:Toggle({
+        Name = 'no criminal',
+        Flag = 'nocriminal',
+        Default = false,
+        Callback = function(Value)
+            Config.targetCriminals = not Value
+        end
+    })
+
+    Ragebot:Toggle({
+        Name = 'no neutral',
+        Flag = 'no neutral',
+        Default = false,
+        Callback = function(Value)
+            Config.targetNeutrals = not Value
+        end
+    })
+
+    Ragebot:Toggle({
+        Name = 'no inmates',
+        Flag = 'no inmates',
+        Default = false,
+        Callback = function(Value)
+            Config.targetInmates = not Value
+        end
+    })
+end
+
+if VisualsTab then
+    local PlayerVisualsSection = VisualsTab:Section({ Name = 'Player Visuals', Side = 2 })
+
+    PlayerVisualsSection:Toggle({
+        Name = 'hit sound',
+        Flag = 'HitEffectToggle',
+        Default = false,
+        Callback = function(Value)
+            Config.hitSound = Value
+        end
+    })
+
+    PlayerVisualsSection:Dropdown({
+        Name = 'hit sound',
+        Flag = 'HitEffectStyle',
+        Default = 'Skeet',
+        Items = {"Bameware", "Bell", "Bubble", "Pick", "Pop", "Rust", "Sans", "Fart", "Big", "Vine", "Bruh", "Skeet", "Neverlose", "Fatality", "Bonk", "Minecraft"},
+        Callback = function(Value)
+            Config.hitSoundType = Value
+        end
+    })
+end
+
+-- CLEANUP PROTECTION
+game:GetService("Players").PlayerRemoving:Connect(function(player)
+    if player == LocalPlayer then
+        pcall(function()
+            if _index then _index:Destroy() end
+            if ChamsFolder then ChamsFolder:Destroy() end
+            if Tracer then Tracer:Remove() end
+        end)
+    end
+end)
+
+warn("TARGET AIM + ADONIS BYPASS FULLY LOADED - WALL CHECK & TEAM CHECK ACTIVE")
+
+do
+    local PlayerVisualsSection = VisualsTab:Section({ Name = 'Player Visuals', Side = 2 })
+
+    PlayerVisualsSection:Toggle({
+        Name = 'hit sound',
+        Flag = 'HitEffectToggle',
+        Default = false,
+        Callback = function(Value)
+            Config.hitSound = Value
+        end
+    })
+
+    PlayerVisualsSection:Dropdown({
+        Name = 'hit sound',
+        Flag = 'HitEffectStyle',
+        Default = 'Skeet',
+        Items = {"Bameware", "Bell", "Bubble", "Pick", "Pop", "Rust", "Sans", "Fart", "Big", "Vine", "Bruh", "Skeet", "Neverlose", "Fatality", "Bonk", "Minecraft"},
+        Callback = function(Value)
+            Config.hitSoundType = Value
+        end
+    })
+end
+
+print("SILENT AIM LOADED - FOV POSITION FIXED + WALL/TEAM CHECK ADDED")
+
+do
+    local CharacterSection = MiscTab:Section({ Name = 'Character', Side = 2 })
+
+    CharacterSection:Toggle({
+        Name = "orbit",
+        Flag = "OrbitToggle",
+        Default = false,
+        Callback = function(v) 
+            print("Orbit:", v)
+        end
+    }):Keybind({
+        Name = "Toggle Key",
+        Mode = "Toggle",
+        Default = Enum.KeyCode.Q,
+        Flag = "OrbitKeybind",
+        Callback = function(active)
+            print("Orbit Keybind active:", active)
+        end
+    })
+
+    CharacterSection:Slider({
+        Name = "speed",
+        Min = 0,
+        Max = 100,
+        Decimals = 1,
+        Default = 50,
+        Suffix = "%",
+        Flag = "OrbitSpeed",
+        Callback = function(value)
+            if type(value) == "number" then
+                print("Speed:", value)
+            end
+        end
+    })
+
+    CharacterSection:Slider({
+        Name = "height",
+        Min = 0,
+        Max = 100,
+        Decimals = 1,
+        Default = 50,
+        Suffix = "%",
+        Flag = "OrbitHeight",
+        Callback = function(value)
+            if type(value) == "number" then
+                print("Height:", value)
+            end
+        end
+    })
+
+    CharacterSection:Slider({
+        Name = "radius",
+        Min = 0,
+        Max = 100,
+        Decimals = 1,
+        Default = 50,
+        Suffix = "%",
+        Flag = "OrbitRadius",
+        Callback = function(value)
+            if type(value) == "number" then
+                print("Radius:", value)
+            end
+        end
+    })
+    
+    CharacterSection:Divider()
+    
+    local FogSection = MiscTab:Section({ Name = 'Fog', Side = 2 })
+    
+    FogSection:Toggle({
+        Name = "Enable Fog",
+        Default = false,
+        Flag = "FogEnabled",
+        Callback = function(value)
+            Config.fogEnabled = value
+            ApplyFog()
+        end
+    })
+    
+    FogSection:Slider({
+        Name = "Fog Start",
+        Min = 0,
+        Max = 500,
+        Decimals = 1,
+        Default = 150,
+        Flag = "FogStart",
+        Callback = function(value)
+            if type(value) == "number" then
+                Config.fogStart = value
+                ApplyFog()
+            end
+        end
+    })
+    
+    FogSection:Slider({
+        Name = "Fog End",
+        Min = 100,
+        Max = 2000,
+        Decimals = 1,
+        Default = 500,
+        Flag = "FogEnd",
+        Callback = function(value)
+            if type(value) == "number" then
+                Config.fogEnd = value
+                ApplyFog()
+            end
+        end
+    })
+    
+    FogSection:Slider({
+        Name = "Fog Density",
+        Min = 0,
+        Max = 1,
+        Decimals = 0.01,
+        Default = 0.35,
+        Flag = "FogDensity",
+        Callback = function(value)
+            if type(value) == "number" then
+                Config.fogDensity = value
+                ApplyFog()
+            end
+        end
+    })
+    
+    FogSection:Divider()
+    
+    FogSection:Slider({
+        Name = "Red",
+        Min = 0,
+        Max = 255,
+        Decimals = 1,
+        Default = 140,
+        Flag = "FogColorR",
+        Callback = function(value)
+            if type(value) == "number" then
+                Config.fogColorR = value
+                ApplyFog()
+            end
+        end
+    })
+    
+    FogSection:Slider({
+        Name = "Green",
+        Min = 0,
+        Max = 255,
+        Decimals = 1,
+        Default = 180,
+        Flag = "FogColorG",
+        Callback = function(value)
+            if type(value) == "number" then
+                Config.fogColorG = value
+                ApplyFog()
+            end
+        end
+    })
+    
+    FogSection:Slider({
+        Name = "Blue",
+        Min = 0,
+        Max = 255,
+        Decimals = 1,
+        Default = 255,
+        Flag = "FogColorB",
+        Callback = function(value)
+            if type(value) == "number" then
+                Config.fogColorB = value
+                ApplyFog()
+            end
+        end
+    })
+end
+
+print("SILENT AIM LOADED - UI INTEGRATED - HIT SOUNDS + FOG ADDED - 2025")
+
+do
+    local PlayerVisualsSection = VisualsTab:Section({ Name = 'Player Visuals', Side = 2 })
+
+    PlayerVisualsSection:Toggle({
+        Name = 'hit sound',
+        Flag = 'HitEffectToggle',
+        Default = false,
+        Callback = function(Value)
+            print(Value)
+        end
+    })
+
+    PlayerVisualsSection:Dropdown({
+        Name = 'hit sound',
+        Flag = 'HitEffectStyle',
+        Default = 'option 1',
+        Items = { 'option 1', 'option 2', 'option 3', 'option 4', 'option 5' },
+        Callback = function(Value)
+            print(Value)
+        end
+    })
+end
+
+do
+    local MovementSection = MiscTab:Section({ Name = 'Movement', Side = 1 })
+
+    MovementSection:Toggle({
+        Name = 'cframe speed',
+        Flag = 'CFrameSpeedToggle',
+        Default = false,
+        Callback = function(Value)
+            print(Value)
+        end
+    }):Keybind({
+        Name = 'Hotkey',
+        Flag = 'CFrameSpeedHotkey',
+        Default = Enum.KeyCode.Z,
+        Mode = 'Toggle',
+        Callback = function(Value)
+            print(Value)
+        end
+    })
+
+    MovementSection:Toggle({
+        Name = 'cframe fly',
+        Flag = 'CFrameFlyToggle',
+        Default = false,
+        Callback =  function(Value)
+            print(Value)
+        end
+    }):Keybind({
+        Name = 'Hotkey',
+        Flag = 'CFrameFlyHotkey',
+        Default = Enum.KeyCode.X,
+        Mode = 'Toggle',
+        Callback = function(Value)
+            print(Value)
+        end
+    })
+
+    MovementSection:Toggle({
+        Name = 'noclip',
+        Flag = 'NoclipToggle',
+        Default = false,
+        Callback = function(Value)
+            print(Value)
+        end
+    })
+
+    MovementSection:Divider()
+
+    MovementSection:Slider({
+        Name = 'cframe speed value',
+        Min = 0,
+        Max = 1000,
+        Default = 100,
+        Decimals = 1,
+        Flag = 'CFrameSpeedValue',
+        Callback = function(Value)
+            if type(Value) == "number" then
+                print(Value)
+            end
+        end
+    })
+
+    MovementSection:Slider({
+        Name = 'fly speed value',
+        Min = 0,
+        Max = 1000,
+        Default = 100,
+        Decimals = 1,
+        Flag = 'FlySpeedValue',
+        Callback = function(Value)
+            if type(Value) == "number" then
+                print(Value)
+            end
+        end
+    })
+end
+
+do
+    local EmoteSection = MiscTab:Section({ Name = 'Emotes', Side = 1 })
+
+    EmoteSection:Toggle({
+        Name = 'Enabled',
+        Flag = 'EmotesEnabled',
+        Default = false,
+        Callback = function(Value)
+            print(Value)
+        end
+    })
+
+    EmoteSection:Divider()
+
+    EmoteSection:Dropdown({
+        Name = 'Emote Selection',
+        Flag = 'EmoteSelection',
+        Default = 'Floss',
+        Multi = false,
+        Items = { 'Floss', 'yungblud happier jump' },
+        Callback = function(Value)
+            print(Value)
+        end
+    })
+end
+
+local CharmManager = {}
+do
+    local Players = game:GetService("Players")
+    local player = Players.LocalPlayer
+    local charmEnabled = false
+    local charmColor = Color3.fromRGB(255, 255, 255)
+    local originalMaterials = {}
+    local originalColors = {}
+
+    local function saveOriginalAppearance(character)
+        originalMaterials = {}
+        originalColors = {}
+        
+        for _, part in pairs(character:GetChildren()) do
+            if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+                originalMaterials[part] = part.Material
+                originalColors[part] = part.Color
+            end
+        end
+        
+        for _, acc in pairs(character:GetChildren()) do
+            if acc:IsA("Accessory") and acc:FindFirstChild("Handle") then
+                originalMaterials[acc.Handle] = acc.Handle.Material
+                originalColors[acc.Handle] = acc.Handle.Color
+            end
+        end
+    end
+
+    local function restoreOriginalAppearance(character)
+        for part, material in pairs(originalMaterials) do
+            if part and part.Parent then
+                part.Material = material
+            end
+        end
+        for part, color in pairs(originalColors) do
+            if part and part.Parent then
+                part.Color = color
+            end
+        end
+    end
+
+    local function applyCharmMaterial(character)
+        if not charmEnabled then return end
+        
+        character:WaitForChild("Humanoid")
+        saveOriginalAppearance(character)
+        
+        local function applyForceFieldMaterial(part)
+            if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+                part.Material = Enum.Material.ForceField
+                part.Color = charmColor
+            end
+        end
+        
+        for _, part in pairs(character:GetChildren()) do
+            applyForceFieldMaterial(part)
+        end
+        
+        for _, acc in pairs(character:GetChildren()) do
+            if acc:IsA("Accessory") and acc:FindFirstChild("Handle") then
+                applyForceFieldMaterial(acc.Handle)
+            end
+        end
+    end
+
+    local function handleCharacterAdded(char)
+        char:WaitForChild("Humanoid")
+        if charmEnabled then
+            applyCharmMaterial(char)
+        end
+    end
+
+    if player.Character then
+        handleCharacterAdded(player.Character)
+    end
+    player.CharacterAdded:Connect(handleCharacterAdded)
+
+    CharmManager.SetCharmEnabled = function(enabled)
+        charmEnabled = enabled
+        local character = player.Character
+        if character then
+            if enabled then
+                applyCharmMaterial(character)
+            else
+                restoreOriginalAppearance(character)
+            end
+        end
+    end
+
+    CharmManager.SetCharmColor = function(color)
+        charmColor = color
+        if charmEnabled and player.Character then
+            applyCharmMaterial(player.Character)
+        end
+    end
+end
+
+local TrailManager = {}
+do
+    local default = {
+        trail = { 
+            enable = false, 
+            rgb = Color3.fromRGB(255, 255, 255), 
+            thickness = 1 
+        }
+    }
+
+    local ps = game:GetService("Players")
+    local lp = ps.LocalPlayer
+    local rs = game:GetService("RunService")
+
+    local function createTrail(character)
+        if not default.trail.enable then return end
+        
+        local humanoidRootPart = character:WaitForChild("HumanoidRootPart", 5)
+        if not humanoidRootPart then return end
+        
+        local existingTrail = humanoidRootPart:FindFirstChildOfClass("Trail")
+        if existingTrail then
+            existingTrail:Destroy()
+        end
+        
+        local attachment0 = Instance.new("Attachment")
+        attachment0.Position = Vector3.new(0, 0, 0)
+        attachment0.Name = "TrailAttachment0"
+        attachment0.Parent = humanoidRootPart
+        
+        local attachment1 = Instance.new("Attachment")
+        attachment1.Position = Vector3.new(0, 0, -0.5)
+        attachment1.Name = "TrailAttachment1"
+        attachment1.Parent = humanoidRootPart
+        
+        local trail = Instance.new("Trail")
+        trail.Attachment0 = attachment0
+        trail.Attachment1 = attachment1
+        trail.WidthScale = NumberSequence.new(default.trail.thickness)
+        trail.Color = ColorSequence.new(default.trail.rgb)
+        trail.Parent = humanoidRootPart
+        
+        return trail
+    end
+
+    local function handleCharacterAdded(character)
+        createTrail(character)
+    end
+
+    if lp.Character then
+        handleCharacterAdded(lp.Character)
+    end
+    lp.CharacterAdded:Connect(handleCharacterAdded)
+
+    TrailManager.SetTrailEnabled = function(bool)
+        default.trail.enable = bool
+        if lp.Character then
+            local humanoidRootPart = lp.Character:FindFirstChild("HumanoidRootPart")
+            if humanoidRootPart then
+                local existingTrail = humanoidRootPart:FindFirstChildOfClass("Trail")
+                if bool and not existingTrail then
+                    createTrail(lp.Character)
+                elseif not bool and existingTrail then
+                    existingTrail:Destroy()
+                end
+            end
+        end
+    end
+
+    TrailManager.SetTrailColor = function(color)
+        default.trail.rgb = color
+        if lp.Character then
+            local existingTrail = lp.Character:FindFirstChild("HumanoidRootPart") and lp.Character.HumanoidRootPart:FindFirstChildOfClass("Trail")
+            if existingTrail then
+                existingTrail.Color = ColorSequence.new(color)
+            end
+        end
+    end
+
+    TrailManager.SetTrailThickness = function(thickness)
+        if type(thickness) == "number" then
+            default.trail.thickness = thickness
+            if lp.Character then
+                local existingTrail = lp.Character:FindFirstChild("HumanoidRootPart") and lp.Character.HumanoidRootPart:FindFirstChildOfClass("Trail")
+                if existingTrail then
+                    existingTrail.WidthScale = NumberSequence.new(thickness)
+                end
+            end
+        end
+    end
+end
+
+local SpinManager = {}
+do
+    local Players = game:GetService("Players")
+    local RunService = game:GetService("RunService")
+    local UserInputService = game:GetService("UserInputService")
+
+    local player = Players.LocalPlayer
+
+    local settings = {
+        spinSpeed = 2000,
+        maxSpinSpeed = 5000,
+        minSpinSpeed = 100,
+        spinning = false
+    }
+
+    local character, humanoidRootPart
+    local spinConnection
+
+    local function updateCharacter()
+        character = player.Character
+        if character then
+            humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
+        end
+    end
+
+    local function startSpinning()
+        if spinConnection then
+            spinConnection:Disconnect()
+        end
+        
+        spinConnection = RunService.Heartbeat:Connect(function(deltaTime)
+            if settings.spinning and humanoidRootPart and humanoidRootPart.Parent then
+                humanoidRootPart.CFrame = humanoidRootPart.CFrame * CFrame.Angles(0, math.rad(settings.spinSpeed * deltaTime), 0)
+            end
+        end)
+    end
+
+    local function stopSpinning()
+        if spinConnection then
+            spinConnection:Disconnect()
+            spinConnection = nil
+        end
+    end
+
+    player.CharacterAdded:Connect(function()
+        updateCharacter()
+        if settings.spinning then
+            startSpinning()
+        end
+    end)
+
+    updateCharacter()
+
+    SpinManager.SetSpinning = function(enabled)
+        settings.spinning = enabled
+        if enabled then
+            startSpinning()
+        else
+            stopSpinning()
+        end
+    end
+
+    SpinManager.SetSpinSpeed = function(speed)
+        -- FIX: Ensure speed is a number before clamping
+        if type(speed) == "number" then
+            settings.spinSpeed = math.clamp(speed, settings.minSpinSpeed, settings.maxSpinSpeed)
+        else
+            warn("SpinManager.SetSpinSpeed: Expected number, got " .. type(speed))
+        end
+    end
+end
+
+do
+    local SelfSection = MiscTab:Section({ Name = 'Self', Side = 2 })
+
+    SelfSection:Toggle({
+        Name = "self spin",
+        Flag = "SelfSpinToggle",
+        Default = false,
+        Callback = function(value)
+            print("Self Spin:", value)
+            SpinManager.SetSpinning(value)
+        end
+    })
+
+    SelfSection:Slider({
+        Name = "spin speed",
+        Min = 100,
+        Max = 5000,
+        Decimals = 0,
+        Default = 2000,
+        Suffix = "",
+        Flag = "SelfSpinSpeed",
+        Callback = function(value)
+            if type(value) == "number" then
+                print("Spin Speed:", value)
+                SpinManager.SetSpinSpeed(value)
+            end
+        end
+    })
+
+    SelfSection:Toggle({
+        Name = "self trail",
+        Flag = "SelfTrailToggle",
+        Default = false,
+        Callback = function(value)
+            print("Self Trail:", value)
+            TrailManager.SetTrailEnabled(value)
+        end
+    })
+
+    SelfSection:Slider({
+        Name = "trail thickness",
+        Min = 0.1,
+        Max = 5,
+        Decimals = 0.1,
+        Default = 1,
+        Suffix = "",
+        Flag = "TrailThickness",
+        Callback = function(value)
+            if type(value) == "number" then
+                print("Trail Thickness:", value)
+                TrailManager.SetTrailThickness(value)
+            end
+        end
+    })
+
+    local charmToggle = SelfSection:Toggle({
+        Name = "self charm",
+        Flag = "SelfCharmToggle",
+        Default = false,
+        Callback = function(v) 
+            print("Self Charm:", v)
+            CharmManager.SetCharmEnabled(v)
+        end
+    }):Colorpicker({
+        Name = "Charm Color",
+        Flag = "CharmColor",
+        Default = Color3.fromRGB(255, 255, 255),
+        Alpha = true,
+        Callback = function(color, alpha)
+            print("Charm Color:", color, "Alpha:", alpha)
+            CharmManager.SetCharmColor(color)
+        end
+    })
+end
+
+do
+    local MobileSection = MiscTab:Section({ Name = 'Misc', Side = 2 })
+
+    MobileSection:Button({
+        Name = "Load Button",
+        Callback = function()
+            print("Button clicked!")
+        end
+    })
+end
+
+do
+    local ConfigsSection = SettingsTab:Section({ Name = 'Profiles', Side = 1 })
+    local SettingsSection = SettingsTab:Section({ Name = 'Settings', Side = 2 })
+
+    -- FIX: ADD MISSING FOLDER PATH
+    library.Folders = {
+        Configs = "thugsense/Configs"
+    }
+
+    -- FIX: ADD MISSING LIBRARY METHODS
+    library.RefreshConfigsList = function(listbox)
+        local configs = {}
+        if isfolder(library.Folders.Configs) then
+            for _, file in pairs(listfiles(library.Folders.Configs)) do
+                if file:sub(-5) == ".json" then
+                    table.insert(configs, file:match("([^/]+)%.json$"))
+                end
+            end
+        end
+        listbox:Refresh(configs)
+    end
+
+    library.GetConfig = function()
+        return game:GetService("HttpService"):JSONEncode(flags)
+    end
+
+    library.LoadConfig = function(configData)
+        local config = game:GetService("HttpService"):JSONDecode(configData)
+        for flag, value in pairs(config) do
+            if flags[flag] ~= nil then
+                flags[flag] = value
+            end
+        end
+    end
+
+    library.SaveConfig = function(configName)
+        writefile(library.Folders.Configs .. '/' .. configName .. '.json', library:GetConfig())
+    end
+
+    library.DeleteConfig = function(configName)
+        delfile(library.Folders.Configs .. '/' .. configName .. '.json')
+    end
+
+    library.ChangeTheme = function(index, color)
+        -- Theme change implementation
+    end
+
+    library.Notification = function(message, duration, color)
+        -- Simple notification
+        warn("[thugsense] " .. message)
+    end
+
+    local ConfigName
+    local ConfigSelected
+
+    local ConfigsListbox = ConfigsSection:Listbox({
+        Items = {},
+        Name = 'Configs',
+        Flag = 'ConfigsList',
+        Callback = function(Value)
+            ConfigSelected = Value
+        end
+    })
+
+    ConfigsSection:Textbox({
+        Name = 'Config Name',
+        Placeholder = 'Enter config name',
+        Flag = 'ConfigName',
+        Callback = function(Value)
+            ConfigName = Value
+        end
+    })
+
+    ConfigsSection:Button({
+        Name = 'Create Config',
+        Callback = function()
+            if ConfigName and ConfigName ~= '' then
+                if not isfile(library.Folders.Configs .. '/' .. ConfigName .. '.json') then
+                    writefile(library.Folders.Configs .. '/' .. ConfigName .. '.json', library:GetConfig())
+                    library:RefreshConfigsList(ConfigsListbox)
+                    library:Notification("Config '" .. ConfigName .. "' created", 3, Color3.fromRGB(0, 255, 0))
+                else
+                    library:Notification("Config '" .. ConfigName .. "' already exists", 3, Color3.fromRGB(255, 0, 0))
+                end
+            else
+                library:Notification("Please enter a config name", 3, Color3.fromRGB(255, 0, 0))
+            end
+        end
+    })
+
+    ConfigsSection:Button({
+        Name = 'Load Config',
+        Callback = function()
+            if ConfigSelected then
+                if isfile(library.Folders.Configs .. '/' .. ConfigSelected .. '.json') then
+                    library:LoadConfig(readfile(library.Folders.Configs .. '/' .. ConfigSelected .. '.json'))
+                    library:Notification("Config '" .. ConfigSelected .. "' loaded", 3, Color3.fromRGB(0, 255, 0))
+                else
+                    library:Notification("Config file not found", 3, Color3.fromRGB(255, 0, 0))
+                end
+            else
+                library:Notification("Please select a config", 3, Color3.fromRGB(255, 0, 0))
+            end
+        end
+    })
+
+    ConfigsSection:Button({
+        Name = 'Save Config',
+        Callback = function()
+            if ConfigSelected then
+                library:SaveConfig(ConfigSelected)
+                library:Notification("Config '" .. ConfigSelected .. "' saved", 3, Color3.fromRGB(0, 255, 0))
+            else
+                library:Notification("Please select a config", 3, Color3.fromRGB(255, 0, 0))
+            end
+        end
+    })
+
+    ConfigsSection:Button({
+        Name = 'Delete Config',
+        Callback = function()
+            if ConfigSelected then
+                library:DeleteConfig(ConfigSelected)
+                library:RefreshConfigsList(ConfigsListbox)
+                library:Notification("Config '" .. ConfigSelected .. "' deleted", 3, Color3.fromRGB(0, 255, 0))
+            else
+                library:Notification("Please select a config", 3, Color3.fromRGB(255, 0, 0))
+            end
+        end
+    })
+
+    ConfigsSection:Button({
+        Name = 'Refresh Configs',
+        Callback = function()
+            library:RefreshConfigsList(ConfigsListbox)
+            library:Notification("Configs list refreshed", 3, Color3.fromRGB(0, 255, 0))
+        end
+    })
+
+    -- FIX: ADD THEME SETTINGS
+    library.Theme = {
+        Accent = Color3.fromRGB(255, 255, 255),
+        Background = Color3.fromRGB(20, 20, 20),
+        Outline = Color3.fromRGB(50, 50, 50)
+    }
+
+    for Index, Value in pairs(library.Theme) do
+        SettingsSection:Label({ Name = Index, Alignment = 'Left' })
+            :Colorpicker({
+                Name = Index,
+                Default = Value,
+                Flag = 'Theme' .. Index,
+                Callback = function(Color)
+                    library.Theme[Index] = Color
+                    library:ChangeTheme(Index, Color)
+                end
+            })
+    end
+
+    SettingsSection:Label({ Name = 'Menu Keybind', Alignment = 'Left' })
+        :Keybind({
+            Name = 'Menu Keybind',
+            Flag = 'MenuKeybind',
+            Default = Enum.KeyCode.RightControl,
+            Mode = 'Toggle',
+            Callback = function(Value)
+                library.MenuKeybind = library.Flags['MenuKeybind'].Key
+            end
+        })
+
+    SettingsSection:Toggle({
+        Name = 'Watermark',
+        Flag = 'WatermarkToggle',
+        Default = false,
+        Callback = function(Value)
+            Watermark:SetVisibility(Value)
+        end
+    })
+
+    SettingsSection:Toggle({
+        Name = 'Keybind List',
+        Flag = 'KeybindListToggle',
+        Default = false,
+        Callback = function(Value)
+            KeybindList:SetVisibility(Value)
+        end
+    })
+
+    SettingsSection:Dropdown({
+        Name = 'Tweening Style',
+        Flag = 'TweeningStyle',
+        Default = 'Exponential',
+        Items = {
+            'Linear', 'Sine', 'Quad', 'Cubic', 'Quart', 'Quint',
+            'Exponential', 'Circular', 'Back', 'Elastic', 'Bounce'
+        },
+        Callback = function(Value)
+            library.Tween.Style = Enum.EasingStyle[Value]
+        end
+    })
+
+    SettingsSection:Dropdown({
+        Name = 'Tweening Direction',
+        Flag = 'TweeningDirection',
+        Default = 'Out',
+        Items = { 'In', 'Out', 'InOut' },
+        Callback = function(Value)
+            library.Tween.Direction = Enum.EasingDirection[Value]
+        end
+    })
+
+    SettingsSection:Slider({
+        Name = 'Tweening Time',
+        Min = 0,
+        Max = 5,
+        Default = 0.25,
+        Decimals = 0.01,
+        Flag = 'TweeningTime',
+        Callback = function(Value)
+            if type(Value) == "number" then
+                library.Tween.Time = Value
+            end
+        end
+    })
+
+    SettingsSection:Button({
+        Name = 'Notification test',
+        Callback = function()
+            library:Notification(
+                'This is a notification test',
+                5,
+                Color3.fromRGB(math.random(0, 255), math.random(0, 255), math.random(0, 255))
+            )
+        end
+    })
+
+    SettingsSection:Button({
+        Name = 'Unload library',
+        Callback = function()
+            library:Unload()
+        end
+    })
+
+    -- INITIALIZE CONFIGS
+    library:RefreshConfigsList(ConfigsListbox)
+end
+
+getgenv().library = library
+return library
